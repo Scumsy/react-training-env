@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Scumsy/react-training-env/static/css/main.7acaea2f.css",
-    "main.js": "/Scumsy/react-training-env/static/js/main.07d3183d.js",
+    "main.css": "/Scumsy/react-training-env/static/css/main.f82836d7.css",
+    "main.js": "/Scumsy/react-training-env/static/js/main.937780a1.js",
     "index.html": "/Scumsy/react-training-env/index.html",
-    "main.7acaea2f.css.map": "/Scumsy/react-training-env/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Scumsy/react-training-env/static/js/main.07d3183d.js.map"
+    "main.f82836d7.css.map": "/Scumsy/react-training-env/static/css/main.f82836d7.css.map",
+    "main.937780a1.js.map": "/Scumsy/react-training-env/static/js/main.937780a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.f82836d7.css",
+    "static/js/main.937780a1.js"
   ]
 }
