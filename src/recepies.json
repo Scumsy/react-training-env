@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Smoked salmon burger",
+    "time": "20",
+    "servings": 6,
+    "calories": 210,
+    "image": "NO-URL"
+  },
+  {
+    "id": 2,
+    "name": "Tomato With Creamy Feta",
+    "time": "15",
+    "servings": 3,
+    "calories": 600,
+    "image": "NO-URL"
+  }
+]
